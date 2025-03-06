@@ -77,7 +77,3 @@ This command will start the web application in development mode.
 
 - Ensure that all environment variables required for database connectivity and other configurations are correctly set up in your environment.
 - If you encounter any issues, please refer to the respective error messages or consult the project's documentation for further assistance.
-
----
-
-This README provides clear and concise instructions for setting up and running the different parts of your application. Make sure to update any specific details, such as directory names or additional setup steps, as needed for your project.
